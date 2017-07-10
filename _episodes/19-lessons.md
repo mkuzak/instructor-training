@@ -26,7 +26,7 @@ Yesterday we talked about specific teaching tools and how people learn; today
 we've talked about Software Carpentry and Data Carpentry teaching more specifically.  
 So to wrap up the training, we're going to go back and look a bit more at lessons - 
 the actual content that you will be preparing and teaching as a 
-Software/Data Carpentry instructor.  This will two forms: we'll talk about 
+Software/Data Carpentry instructor.  This will take two forms: we'll talk about 
 lesson design generally, and about the Software and Data Carpentry lessons in particular.    
 
 ## Writing Lessons
@@ -60,7 +60,7 @@ A learner profile for Software Carpentry might be:
 
 > João is an agricultural engineer doing his masters in soil physics.
 > His programming experience is a first year programming course using C.
-> He was never able to use this low-level programming into his activities,
+> He was never able to use this low-level programming in his activities,
 > and never programmed after the first year.
 >
 > His work consists of evaluating physical properties of soil samples from different conditions.
@@ -137,7 +137,7 @@ in learning objectives written for each level.
   <tr>
     <th>Bloom's taxonomy</th>
     <th>Facets of understanding (Wiggins & McTighe)</th>
-    <th>Taxonomy of significant learning (Fisk)</th>
+    <th>Taxonomy of significant learning (Fink)</th>
     <th>Typical learning objective verbs</th>
   </tr>
   <tr>
